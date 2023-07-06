@@ -1,0 +1,14 @@
+@import 'normalize.css';
+
+:root {
+  --primay-color: #722ED1
+}
+
+#root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+
